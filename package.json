@@ -5,7 +5,13 @@
   "repository": "https://github.com/Ederson777/Recriando-insta.git",
   "author": "Ederson Samuel <ederson_negocios@yahoo.com.br>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
   }
 }
