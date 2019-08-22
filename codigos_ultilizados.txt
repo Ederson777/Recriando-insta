@@ -1,0 +1,2 @@
+Iniciar com comando: yarn init -y
+Instalar a dependencia: yarn add express
