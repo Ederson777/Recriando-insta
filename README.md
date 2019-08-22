@@ -7,3 +7,4 @@ Dependencias instaladas
 yarn add mongoose
 yarn add multer
 yarn add sharp
+yarn add cors
